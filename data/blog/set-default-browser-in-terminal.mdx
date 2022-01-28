@@ -1,0 +1,47 @@
+---
+title: "Setting Default Browser in Terminal using XDG"
+date: "2021-01-28"
+tags: ["linux", "desktop", "guide", "i3wm", "xdg"]
+draft: false
+summary: "This post describes how to set default browser via the Linux terminal when using a window manager like i3wm."
+---
+
+# Setting Default Browser in Linux Terminal
+
+Using `xdg`
+
+1. Install `xdg-utils`
+
+   - On Debian based systems, you can install `xdg-utils` with
+
+     ```bash
+     sudo apt install xdg-utils
+     ```
+
+   - On Arch based systems, you can install `xdg-utils` with
+
+     ```bash
+      sudo pacman -S xdg-utils
+     ```
+
+2. Set Default Browser
+
+   ```bash
+   xdg-settings set default-web-browser firefox.desktop
+   ```
+
+   Replace `firefox.desktop` with the name of your browser's desktop file.
+
+   - You can list all available browsers with
+
+     ```bash
+     ls /usr/share/applications/*.desktop
+     ```
+
+   - To search for a specific browser, use the `grep` command.
+
+     ```bash
+     ls /usr/share/applications/*.desktop | grep -i firefox
+     ```
+
+     Replace `firefox` with the name of your browser.

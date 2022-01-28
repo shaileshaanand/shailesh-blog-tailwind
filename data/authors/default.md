@@ -1,16 +1,17 @@
 ---
-name: Tails Azimuth
+name: Shailesh Aanand
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Web Developer
+company: Full Stack
+email: anaandshailu@gmail.com
+twitter: https://twitter.com/shaileshaanand
+linkedin: https://www.linkedin.com/in/shailesh-aanand/
+github: https://github.com/shaileshaanand
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+I am a Full Stack Web Developer and a Linux and Open Source Enthusiast
+who loves problem solving, troubleshooting and watching Marvel Movies.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+I love tinkering with hardware and rooting android devices.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I use Arch btw :)

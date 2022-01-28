@@ -1,19 +1,19 @@
 const projectsData = [
   {
-    title: "A Search Engine",
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: "/static/images/google.png",
-    href: "https://www.google.com",
+    title: "Udhaar",
+    description: `Udhaar is a personal finance and debt management app that helps you
+    track your debts and loans with friends. Never forget any debts or split payments
+    with your friends again with udhaar.`,
+    imgSrc: "/static/images/udhaar.png",
+    href: "https://udhaar.me",
   },
   {
-    title: "The Time Machine",
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
+    title: "LoveDSA",
+    description: `A GeeksForGeeks profile tracker that encourages you to solve DSA problems.
+    Just enter your GeeksForGeeks username and you'll get a list of problems you can solve
+    with a progress bar to encourage you.`,
     imgSrc: "/static/images/time-machine.jpg",
-    href: "/blog/the-time-machine",
+    href: "https://lovedsa.xyz",
   },
 ];
 

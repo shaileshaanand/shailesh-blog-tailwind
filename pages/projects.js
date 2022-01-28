@@ -13,7 +13,10 @@ export default function Projects() {
             Projects
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            Showcase your projects with a hero image (16 x 9)
+            Built with ❤️ by{" "}
+            <a href={siteMetadata.github} className="underline">
+              {siteMetadata.author}
+            </a>
           </p>
         </div>
         <div className="container py-12">

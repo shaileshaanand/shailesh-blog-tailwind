@@ -1,21 +1,22 @@
 const siteMetadata = {
-  title: "Next.js Starter Blog",
-  author: "Tails Azimuth",
-  headerTitle: "TailwindBlog",
-  description: "A blog created with Next.js and Tailwind.css",
+  title: "Shailesh's Blog",
+  author: "Shailesh Aanand",
+  headerTitle: "Shailesh's Blog",
+  description:
+    "A blog that contains solutions to issues that I have faced so that I don't have to search them again 😅",
   language: "en-us",
   theme: "system", // system, dark or light
-  siteUrl: "https://tailwind-nextjs-starter-blog.vercel.app",
-  siteRepo: "https://github.com/timlrx/tailwind-nextjs-starter-blog",
+  siteUrl: "https://tailwind-nextjs-starter-blog.vercel.app", //TODO: Change this to your site url
+  siteRepo: "https://github.com/timlrx/tailwind-nextjs-starter-blog", //TODO: Change this to your site repo
   siteLogo: "/static/images/logo.png",
   image: "/static/images/avatar.png",
   socialBanner: "/static/images/twitter-card.png",
-  email: "address@yoursite.com",
-  github: "https://github.com",
-  twitter: "https://twitter.com/Twitter",
-  facebook: "https://facebook.com",
-  youtube: "https://youtube.com",
-  linkedin: "https://www.linkedin.com",
+  email: "anaandshailu@gmail.com",
+  github: "https://github.com/shaileshaanand",
+  twitter: "https://twitter.com/shaileshaanand",
+  // facebook: "https://facebook.com",
+  // youtube: "https://youtube.com",
+  linkedin: "https://www.linkedin.com/in/shailesh-aanand/",
   locale: "en-US",
   analytics: {
     // supports plausible, simpleAnalytics, umami or googleAnalytics

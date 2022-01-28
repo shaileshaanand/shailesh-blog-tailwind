@@ -1,0 +1,13 @@
+---
+title: "Creating new users in Linux"
+date: "2021-01-16"
+tags: ["linux", "server", "guide"]
+draft: false
+summary: "This post describes how to create a new user in linux"
+---
+
+# The `useradd` command
+
+```bash
+useradd -mg users -G wheel,storage,power -s /bin/bash <username>
+```
