@@ -12,7 +12,7 @@ const projectsData = [
     description: `A GeeksForGeeks profile tracker that encourages you to solve DSA problems.
     Just enter your GeeksForGeeks username and you'll get a list of problems you can solve
     with a progress bar to encourage you.`,
-    imgSrc: "/static/images/time-machine.jpg",
+    imgSrc: "/static/images/lovedsa.svg",
     href: "https://lovedsa.xyz",
   },
 ];
